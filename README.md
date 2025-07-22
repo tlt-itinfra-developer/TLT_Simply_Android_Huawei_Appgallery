@@ -1,6 +1,6 @@
-# MyApp "TLT Simply" v1.0.0 (AGPLv3 Compliance Release - Android Version)
+# MyApp "TLT Simply" v 5.5 (AGPLv3 Compliance Release - Android Version)
 
-This is the open-source release of MyApp version 1.0.0 (Android), which used the iText PDF library under the AGPLv3 license.  
+This is the open-source release of MyApp version 5.5 (Android), which used the iText PDF library under the AGPLv3 license.  
 This source code is published in accordance with the AGPLv3 requirements.
 
 ## What's Included
@@ -16,7 +16,7 @@ This source code is published in accordance with the AGPLv3 requirements.
 4. Go to **File → New → Project from Version Control**
 5. Clone the repository using the URL:
    ```
-   https://github.com/tlt-itinfra-developer/TLT_Simply_Android_Play_Store.git
+   https://github.com/tlt-itinfra-developer/TLT_Simply_Android_Huawei_Appgallery.git
    ```
 6. Wait until the sync and index process completes
 7. Click **Run Project** (green ▶️ button) or press `Shift+F10`
